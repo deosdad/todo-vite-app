@@ -1,6 +1,6 @@
 
 
-# BlackJack Vite
+# ToDo Vite App
 
 Pasos para ejecutar el proyecto
 
